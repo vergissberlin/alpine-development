@@ -1,7 +1,7 @@
 # alpine-development
 
-Docker alpine image to use for development, testing and deployment.
 ![Logo alpine](https://raw.githubusercontent.com/docker-library/docs/781049d54b1bd9b26d7e8ad384a92f7e0dcb0894/alpine/logo.png)
+Docker alpine image to use for development, testing and deployment.
 
 | Docker base image | Docker image       | Tag            |
 | ----------------- | ------------------ | -------------- |
