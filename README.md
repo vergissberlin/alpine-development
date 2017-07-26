@@ -47,7 +47,7 @@ https://hub.docker.com/r/vergissberlin/alpine-development/
 | debian-development    | [git][30] | [docker][35] |
 | fedora-development    | [git][40] | [docker][45] |
 | opensuse-development  | [git][50] | [docker][55] |
-| ubuntu-development    | [git][10] | [docker][65] |
+| ubuntu-development    | [git][60] | [docker][65] |
 
 [20]: https://github.com/vergissberlin/centos-development
 [25]: https://hub.docker.com/r/vergissberlin/centos-development/
