@@ -35,6 +35,27 @@
         docker run -it vergissberlin/alpine-development:latest bash
         docker run -it vergissberlin/alpine-development:edge bash
 
-### Docker registry
+## Docker registry
 
 https://hub.docker.com/r/vergissberlin/alpine-development/
+
+## Similar images
+
+| Name                  | Git       | Docker       |
+| --------------------- | --------- | ------------ |
+| centos-development    | [git][20] | [docker][25] |
+| debian-development    | [git][30] | [docker][35] |
+| fedora-development    | [git][40] | [docker][45] |
+| opensuse-development  | [git][50] | [docker][55] |
+| ubuntu-development    | [git][10] | [docker][65] |
+
+[20]: https://github.com/vergissberlin/centos-development
+[25]: https://hub.docker.com/r/vergissberlin/centos-development/
+[30]: https://github.com/vergissberlin/debian-development
+[35]: https://hub.docker.com/r/vergissberlin/debian-development/
+[40]: https://github.com/vergissberlin/fedora-development
+[45]: https://hub.docker.com/r/vergissberlin/fedora-development/
+[50]: https://github.com/vergissberlin/opensuse-development
+[55]: https://hub.docker.com/r/vergissberlin/opensuse-development/
+[60]: https://github.com/vergissberlin/ubuntu-development
+[65]: https://hub.docker.com/r/vergissberlin/ubuntu-development/
