@@ -8,4 +8,5 @@ RUN apk update &&\
         figlet \
         git \
         mc \
-        wget
+        wget \
+        vim
