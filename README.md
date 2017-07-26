@@ -7,11 +7,9 @@
 | alpine            | [alpine-development](https://hub.docker.com/r/vergissberlin/alpine-development/) | latest         |
 | alpine            | [alpine-development](https://hub.docker.com/r/vergissberlin/alpine-development/) | edge           |
 
-**Docker registry:** https://hub.docker.com/r/vergissberlin/alpine-development/
-
 ## Promise
 
-> You will **always get the latest** build from the base image. 
+> You will **always get the latest** build from the base image with additional installed packages. 
 > An [concourse ci](http://concourse.ci) instance is watching on changes. It starts to rebuild the image and push it to the registry immediately.
   
 
@@ -26,3 +24,10 @@
 | mc            | GNU Midnight Commander (also known as mc) is a free cross-platform orthodox file manager.                  |
 | wget          | GNU Wget is a computer program that retrieves content from web servers.                                    |
 | vim           | Vim is a clone of Bill Joy's vi text editor program for Unix.                                              |
+
+## Usage
+
+        docker run -it vergissberlin/alpine-development:latest bash
+        docker run -it vergissberlin/alpine-development:edge bash
+
+**Docker registry:** https://hub.docker.com/r/vergissberlin/alpine-development/
