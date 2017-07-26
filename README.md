@@ -17,7 +17,7 @@
 > An [concourse ci](http://concourse.ci) instance is watching on changes. It starts to rebuild the image and push it to the registry immediately.
   
 
-## Installed packaged
+## Installed packages
 
 | Package       | Description                                                                                                |
 | ------------- | ---------------------------------------------------------------------------------------------------------- | 
@@ -31,14 +31,22 @@
 | wget          | GNU Wget is a computer program that retrieves content from web servers.                                    |
 | vim           | Vim is a clone of Bill Joy's vi text editor program for Unix.                                              |
 
+
 ## Usage
 
         docker run -it vergissberlin/alpine-development:latest bash
         docker run -it vergissberlin/alpine-development:edge bash
 
+### concourse ci
+
+```
+fly set-pipeline --target example --config pipeline.yml --pipeline docker-debian -l credentials.yml
+```
+
 ## Docker registry
 
 https://hub.docker.com/r/vergissberlin/alpine-development/
+
 
 ## Similar images
 
