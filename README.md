@@ -3,9 +3,11 @@
     Docker alpine image to use for development, testing and deployment.
 
 | Docker base image | Docker image       | Tag            |
-| ----------------- | ------------------ | -------------- |
-| alpine            | alpine-development | latest         |
+| ----------------- | -------------------------------------------------------------------------------- | -------------- |
+| alpine            | [alpine-development](https://hub.docker.com/r/vergissberlin/alpine-development/) | latest         |
+| alpine            | [alpine-development](https://hub.docker.com/r/vergissberlin/alpine-development/) | edge           |
 
+**Docker registry:** https://hub.docker.com/r/vergissberlin/alpine-development/
 
 ## Promise
 
@@ -14,7 +16,7 @@
   
 
 ## Installed packaged
-| Package       | Description.                                                                                               |
+| Package       | Description                                                                                               |
 | ------------- | ---------------------------------------------------------------------------------------------------------- | 
 | bash          | Bash is a Unix shell and command language as a free software replacement for the Bourne shell.             |
 | bats          | Bats is a TAP-compliant testing framework for Bash. It provides a simple way to verify that the UNIX programs you write behave as expected. |
