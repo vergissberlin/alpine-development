@@ -1,6 +1,6 @@
 # alpine-development
 
-    Docker alpine image to use for development, testing and deployment.
+> Docker alpine image to use for development, testing and deployment.
 
 
 | Docker base image | Docker image            | Tag            | Size   |
