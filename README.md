@@ -3,10 +3,10 @@
 > Docker alpine image to use for development, testing and deployment.
 
 
-| Docker base image | Docker image            | Tag            | Size   | Pulls  |
-| ----------------- | ----------------------- | -------------- | ------ | ------ |
-| [alpine][1]       | [alpine-development][2] | [latest][3]    | ![][4] | ![][6] |
-| [alpine][1]       | [alpine-development][2] | [edge][3]      | ![][5] |        |
+| Docker base image | Docker image            | Tag            | Size   | Pulls  | Status | Build  |
+| ----------------- | ----------------------- | -------------- | ------ | ------ | ------ | ------ |
+| [alpine][1]       | [alpine-development][2] | [latest][3]    | ![][4] | ![][6] | ![][7] | ![][8] |
+| [alpine][1]       | [alpine-development][2] | [edge][3]      | ![][5] |        |        |        |
 
 [1]: https://hub.docker.com/_/alpine/
 [2]: https://hub.docker.com/r/vergissberlin/alpine-development/
@@ -14,6 +14,8 @@
 [4]: https://images.microbadger.com/badges/image/vergissberlin/alpine-development.svg
 [5]: https://images.microbadger.com/badges/image/vergissberlin/alpine-development:edge.svg
 [6]: https://img.shields.io/docker/pulls/vergissberlin/alpine-development.svg
+[7]: https://img.shields.io/docker/build/vergissberlin/alpine-development.svg
+[8]: https://img.shields.io/docker/automated/vergissberlin/alpine-development.svg
 
 ## Promise
 
