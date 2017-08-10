@@ -13,9 +13,9 @@
 [3]: https://hub.docker.com/r/vergissberlin/alpine-development/tags/
 [4]: https://images.microbadger.com/badges/image/vergissberlin/alpine-development.svg
 [5]: https://images.microbadger.com/badges/image/vergissberlin/alpine-development:edge.svg
-[6]: https://img.shields.io/docker/pulls/vergissberlin/alpine-development.svg
-[7]: https://img.shields.io/docker/build/vergissberlin/alpine-development.svg
-[8]: https://img.shields.io/docker/automated/vergissberlin/alpine-development.svg
+[6]: https://img.shields.io/docker/pulls/vergissberlin/alpine-development.svg?style=flat-square
+[7]: https://img.shields.io/docker/build/vergissberlin/alpine-development.svg?style=flat-square
+[8]: https://img.shields.io/docker/automated/vergissberlin/alpine-development.svg?style=flat-square
 
 ## Promise
 
