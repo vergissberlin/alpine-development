@@ -9,5 +9,6 @@ RUN apk update &&\
         git \
         make \
         mc \
+        siege \
         wget \
         vim
