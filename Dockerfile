@@ -8,5 +8,6 @@ RUN apk update &&\
         figlet \
         git \
         mc \
+        siege \
         wget \
         vim
