@@ -27,6 +27,7 @@
 | figlet        | FIGlet generates text banners, in a variety of typefaces, composed of letters made up of conglomerations of smaller ASCII characters (see ASCII art). |
 | git           | Git is a version control system (VCS) for tracking changes in computer files and coordinating work on those files among multiple people.    |
 | mc            | GNU Midnight Commander (also known as mc) is a free cross-platform orthodox file manager.                  |
+| siege         | Siege is an open source regression test and benchmark utility. It can stress test a single URL with a user defined number of simulated users, or it can read many URLs into memory and stress them simultaneously. |
 | wget          | GNU Wget is a computer program that retrieves content from web servers.                                    |
 | vim           | Vim is a clone of Bill Joy's vi text editor program for Unix.                                              |
 
