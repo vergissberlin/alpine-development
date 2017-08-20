@@ -43,12 +43,6 @@
         docker run -it vergissberlin/alpine-development:latest bash
         docker run -it vergissberlin/alpine-development:edge bash
 
-### concourse ci
-
-```
-fly set-pipeline --target example --config pipeline.yml --pipeline docker-debian -l credentials.yml
-```
-
 ## Docker registry
 
 https://hub.docker.com/r/vergissberlin/alpine-development/
