@@ -7,6 +7,7 @@ RUN apk update &&\
         curl \
         figlet \
         git \
+        make \
         mc \
         wget \
         vim
