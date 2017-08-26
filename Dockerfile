@@ -6,6 +6,7 @@ RUN apk update &&\
         bats \
         curl \
         figlet \
+        findutils \
         git \
         make \
         mc \
