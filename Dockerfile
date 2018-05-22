@@ -10,5 +10,8 @@ RUN apk update &&\
         git \
         make \
         mc \
+        nodejs \
+        openssh \
+        sed \
         wget \
         vim
